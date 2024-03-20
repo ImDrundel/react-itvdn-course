@@ -1,0 +1,24 @@
+.sidebar {
+  border: 1 rgb(246, 246, 246) solid;
+  border-radius: 4%;
+  padding: 10px;
+  margin: 5px;
+  grid-area: side;
+  grid-template-columns: 1;
+  background: rgb(247, 247, 247);
+}
+
+.sidebar ul {
+  padding-left: 0;
+}
+
+.sidebar li {
+  list-style: none;
+  padding-left: 0;
+  font-size: 16px;
+}
+
+a {
+  color: rgb(63, 63, 63);
+  text-decoration: 0;
+}
